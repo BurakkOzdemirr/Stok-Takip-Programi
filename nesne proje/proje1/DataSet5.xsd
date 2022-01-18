@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet5" targetNamespace="http://tempuri.org/DataSet5.xsd" xmlns:mstns="http://tempuri.org/DataSet5.xsd" xmlns="http://tempuri.org/DataSet5.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="proje1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="proje1ConnectionString (Settings)" PropertyReference="ApplicationSettings.proje1.Properties.Settings.GlobalReference.Default.proje1ConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="proje1ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        kullaniciler.kullaniciadi, digeraks.stokadi, digeraks.stokadedi, digeraks.eklemetarihi, digeraks.aciklama, digeraks.tanefiyat
+FROM            (digeraks INNER JOIN
+                         kullaniciler ON digeraks.tckimlikno = kullaniciler.tckimlikno)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="kullaniciadi" DataSetColumn="kullaniciadi" />
+              <Mapping SourceColumn="stokadi" DataSetColumn="stokadi" />
+              <Mapping SourceColumn="stokadedi" DataSetColumn="stokadedi" />
+              <Mapping SourceColumn="eklemetarihi" DataSetColumn="eklemetarihi" />
+              <Mapping SourceColumn="aciklama" DataSetColumn="aciklama" />
+              <Mapping SourceColumn="tanefiyat" DataSetColumn="tanefiyat" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet5" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet5" msprop:Generator_UserDSName="DataSet5">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="kullaniciadi" msprop:Generator_ColumnVarNameInTable="columnkullaniciadi" msprop:Generator_ColumnPropNameInRow="kullaniciadi" msprop:Generator_ColumnPropNameInTable="kullaniciadiColumn" msprop:Generator_UserColumnName="kullaniciadi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="stokadi" msprop:Generator_ColumnVarNameInTable="columnstokadi" msprop:Generator_ColumnPropNameInRow="stokadi" msprop:Generator_ColumnPropNameInTable="stokadiColumn" msprop:Generator_UserColumnName="stokadi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="stokadedi" msprop:Generator_ColumnVarNameInTable="columnstokadedi" msprop:Generator_ColumnPropNameInRow="stokadedi" msprop:Generator_ColumnPropNameInTable="stokadediColumn" msprop:Generator_UserColumnName="stokadedi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="eklemetarihi" msprop:Generator_ColumnVarNameInTable="columneklemetarihi" msprop:Generator_ColumnPropNameInRow="eklemetarihi" msprop:Generator_ColumnPropNameInTable="eklemetarihiColumn" msprop:Generator_UserColumnName="eklemetarihi" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="aciklama" msprop:Generator_ColumnVarNameInTable="columnaciklama" msprop:Generator_ColumnPropNameInRow="aciklama" msprop:Generator_ColumnPropNameInTable="aciklamaColumn" msprop:Generator_UserColumnName="aciklama" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="536870910" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tanefiyat" msprop:Generator_ColumnVarNameInTable="columntanefiyat" msprop:Generator_ColumnPropNameInRow="tanefiyat" msprop:Generator_ColumnPropNameInTable="tanefiyatColumn" msprop:Generator_UserColumnName="tanefiyat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

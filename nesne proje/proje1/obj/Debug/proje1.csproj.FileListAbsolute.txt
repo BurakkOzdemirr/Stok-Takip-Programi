@@ -1,0 +1,163 @@
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\bin\Debug\proje1.exe.config
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\bin\Debug\proje1.exe
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\bin\Debug\proje1.pdb
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.csprojResolveAssemblyReference.cache
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.bodykit.resources
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.egzoz.resources
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.Form1.resources
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.Form2.resources
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.Form3.resources
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.Form4.resources
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.jant.resources
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.Properties.Resources.resources
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.sessistemi.resources
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.csproj.GenerateResource.Cache
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.exe
+c:\users\brkoz\documents\visual studio 2013\Projects\proje1\proje1\obj\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\brkoz\Desktop\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.csprojResolveAssemblyReference.cache
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.bodykit.resources
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.egzoz.resources
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.Form2.resources
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.Form3.resources
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.Form4.resources
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.jant.resources
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.sessistemi.resources
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.csproj.GenerateResource.Cache
+C:\Users\brkoz\Desktop\proje1\proje1\obj\Debug\proje1.kullanici.resources
+C:\Users\brkoz\Desktop\proje1 - Kopya\proje1\bin\Debug\proje1.exe.config
+C:\Users\brkoz\Desktop\proje1 - Kopya\proje1\obj\Debug\proje1.exe
+C:\Users\brkoz\Desktop\proje1 - Kopya\proje1\obj\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\proje1s\proje1\bin\Debug\proje1.exe.config
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.exe
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\proje1s\proje1\bin\Debug\proje1.exe
+C:\Users\brkoz\Desktop\proje1s\proje1\bin\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.csprojResolveAssemblyReference.cache
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.bodykit.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.egzoz.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.Form2.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.Form3.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.Form4.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.jant.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.kullanici.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.sessistemi.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.csproj.GenerateResource.Cache
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.bodykitrapor.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\RdlCompile.cache
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\RdlCompile.compiled
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.egzozrapor.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.jantrapor.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.sessistrapor.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.digeraks.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.digeraksrapor.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.mdgiris.resources
+C:\Users\brkoz\Desktop\proje1s - Kopya\proje1\bin\Debug\proje1.exe.config
+C:\Users\brkoz\Desktop\proje1s - Kopya\proje1\obj\Debug\proje1.exe
+C:\Users\brkoz\Desktop\proje1s - Kopya\proje1\obj\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.mij.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.mibkt.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.mieg.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.miss.resources
+C:\Users\brkoz\Desktop\proje1s\proje1\obj\Debug\proje1.mida.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\bin\Debug\proje1.exe.config
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.exe
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\bin\Debug\proje1.exe
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\bin\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.csprojResolveAssemblyReference.cache
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.bodykit.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.bodykitrapor.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.digeraks.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.digeraksrapor.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.egzoz.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.egzozrapor.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Form2.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Form3.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Form4.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.jant.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.jantrapor.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.kullanici.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mdgiris.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mibkt.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mida.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mieg.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mij.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.miss.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.sessistemi.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.sessistrapor.resources
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\proje1.csproj.GenerateResource.Cache
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\RdlCompile.cache
+C:\Users\brkoz\Desktop\184410020 Burak Özdemir\proje1\obj\Debug\RdlCompile.compiled
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\bin\Debug\proje1.exe.config
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.exe
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\bin\Debug\proje1.exe
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\bin\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.csprojResolveAssemblyReference.cache
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.bodykit.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.bodykitrapor.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.digeraks.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.digeraksrapor.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.egzoz.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.egzozrapor.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Form2.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Form3.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Form4.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.jant.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.jantrapor.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.kullanici.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mdgiris.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mibkt.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mida.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mieg.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.mij.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.miss.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.sessistemi.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.sessistrapor.resources
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\proje1.csproj.GenerateResource.Cache
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\RdlCompile.cache
+C:\Users\brkoz\Desktop\Burak\184410020 Burak Özdemir\proje1\obj\Debug\RdlCompile.compiled
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\bin\Debug\proje1.exe.config
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.exe
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\bin\Debug\proje1.exe
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\bin\Debug\proje1.pdb
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.csprojResolveAssemblyReference.cache
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.bodykit.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.bodykitrapor.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.digeraks.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.digeraksrapor.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.egzoz.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.egzozrapor.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.Form2.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.Form3.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.Form4.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.jant.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.jantrapor.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.kullanici.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.mdgiris.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.mibkt.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.mida.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.mieg.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.mij.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.miss.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.sessistemi.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.sessistrapor.resources
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\proje1.csproj.GenerateResource.Cache
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\RdlCompile.cache
+C:\Users\brkoz\Desktop\Burak\nesne proje\proje1\obj\Debug\RdlCompile.compiled
